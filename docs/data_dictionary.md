@@ -9,9 +9,9 @@ This project analyzes startup funding trends in India using a cleaned and struct
 The project includes:
 
 * Raw data cleaning
-* Data transformation
+* Data transformation and EDA for quick analysis
 * Star schema modeling
-* Bridge table implementation for many-to-many relationships
+* Bridge table implementation for fixing many-to-many relationships
 
 ---
 
