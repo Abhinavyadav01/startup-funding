@@ -259,4 +259,4 @@ NIT Jalandhar | Class of 2027
 ---
 
 ## Status
-🚧 In Progress — Page 1 complete, Pages 2–4 in development
+🚧 In Progress — 3 Pages completed, last in development
