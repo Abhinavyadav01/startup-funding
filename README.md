@@ -8,7 +8,8 @@ A end-to-end Business Intelligence project analyzing **3,035 startup funding dea
  
 ## 📊 Live Dashboard Preview
  
-![Overview Page]( assets/Page_1(Overview).png)
+![Overview Page]( assets/Page1_Overview.png)
+![Trends Page]( assets/Page4_Trends.png)
  
 > **4-page interactive dashboard** with dark luxury theme, narrative storytelling, and sector-color-coded visuals.
  
@@ -250,7 +251,7 @@ jupyter notebook notebooks/01_cleaning_and_eda.ipynb
 ## 👤 Author
  
 **Abhinav Yadav**
-B.Tech Civil Engineering → Data Analytics
+Data Analyst | Business Intelligence Analyst
 NIT Jalandhar | Class of 2027
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/abhinavyadav23)
@@ -258,5 +259,3 @@ NIT Jalandhar | Class of 2027
  
 ---
 
-## Status
-🚧 In Progress — 3 Pages completed, last in development
